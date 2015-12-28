@@ -1,0 +1,4 @@
+Prototype mismatch: sub main::SIGVTALRM () vs none at /home/user/pintos/src/utils/pintos line 949.
+Constant subroutine SIGVTALRM redefined at /home/user/pintos/src/utils/pintos line 941.
+Can't exec "qemu": 没有那个文件或目录 at /home/user/pintos/src/utils/pintos line 937.
+command failed
